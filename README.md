@@ -1,4 +1,4 @@
-                              Assignments 1 to 6
+Assignments 1 to 6
 
 Mad libs Python Project
 https://colab.research.google.com/drive/1rbYDZMyQf8tiT3s0h-l2fQRbITLdch3G?usp=sharing
@@ -27,7 +27,7 @@ https://colab.research.google.com/drive/1KSkGzFSVYu6gTVdWTrPL4x81q-sV6AWx?usp=sh
 Project 9: Build a Python Website in 15 Minutes With Streamlit
 https://colab.research.google.com/drive/1T_J_D6kl8XqDGPDaFwCujBpnXOufJptV?usp=sharing
 
-                                Intermediate Project
+Intermediate Project
 
 QR code encoder / decoder Project
 https://colab.research.google.com/drive/1p2XBGpElQX_zynLMUN7xTq2h5Fjml5c9?usp=sharing
