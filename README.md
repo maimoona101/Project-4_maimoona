@@ -1,4 +1,4 @@
-Assignments 1 to 6
+                      Assignments 1 to 6
 
 Mad libs Python Project
 https://colab.research.google.com/drive/1rbYDZMyQf8tiT3s0h-l2fQRbITLdch3G?usp=sharing
@@ -26,6 +26,25 @@ https://colab.research.google.com/drive/1KSkGzFSVYu6gTVdWTrPL4x81q-sV6AWx?usp=sh
 
 Project 9: Build a Python Website in 15 Minutes With Streamlit
 https://colab.research.google.com/drive/1T_J_D6kl8XqDGPDaFwCujBpnXOufJptV?usp=sharing
+
+                      Intermediate Project
+
+QR code encoder / decoder Project
+https://colab.research.google.com/drive/1p2XBGpElQX_zynLMUN7xTq2h5Fjml5c9?usp=sharing
+
+Tic-Tac-Toe Porject
+https://colab.research.google.com/drive/1s7wR_jnmMK89hf4awPQMNVpqzfXo3Y-I?usp=sharing
+
+Binary Search Project
+https://colab.research.google.com/drive/1QjviCa6rPa1NnsQQNdsCJ0FAqiXZnlI1?usp=sharing
+
+Bulk File Re-namer Project
+https://colab.research.google.com/drive/16hxEywZNMFGJPmdKwRwf83E5GwJdJp3t?usp=sharing
+
+Weather Program Project
+https://colab.research.google.com/drive/1wzhefcuLyRVvbWSbpVgf7QwV_PZBjr00?usp=sharing
+
+
 
 
 
